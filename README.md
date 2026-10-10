@@ -1,11 +1,29 @@
-### Salut, je suis Youssef 👋
+# Youssef TAWFIK
 
-CEO de **Cert-IX**, basé à Paris.
+CEO de [Cert-IX](https://github.com/Cert-IX), basé à Paris.
 
-🚀 Je dirige Cert-IX, une entreprise active dans la sécurité et l'automatisation.
+Je conçois et développe des produits à l'intersection de la cybersécurité, de l'intelligence artificielle, de l'automatisation et des données d'entreprise.
 
-🌱 Passionné par l'IA (agents LLM, automatisation) et les nouvelles technologies web.
+## Projets principaux
 
-🤝 Toujours ouvert aux échanges sur l'entrepreneuriat tech et l'innovation.
+- **[Cert-IX](https://github.com/Cert-IX)** — cybersécurité et automatisation
+- **[BusyPlace](https://github.com/BusyPlace)** — données et intelligence d'entreprise
+- **[Doc Justice](https://github.com/KI-Ind/-Doc-Justice)** — outils documentaires et IA juridique
+- **[NovelBeat](https://github.com/KI-Ind/novelbeat-studio)** — création et diffusion de contenus assistées par IA
 
-📫 Pour me contacter : you@cert-ix.com
+## Domaines d'expertise
+
+- Agents IA et intégrations MCP
+- Cybersécurité applicative
+- Automatisation de workflows
+- APIs, TypeScript, Python et React
+- Architecture et industrialisation de produits
+
+## Activité
+
+Je contribue actuellement aux produits Cert-IX, BusyPlace, Doc Justice et NovelBeat, de la conception à la mise en production.
+
+## Me contacter
+
+- GitHub : [@youss75](https://github.com/youss75)
+- Organisation : [Cert-IX](https://github.com/Cert-IX)
