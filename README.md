@@ -8,8 +8,8 @@ Je conçois et développe des produits à l'intersection de la cybersécurité, 
 
 - **[Cert-IX](https://github.com/Cert-IX)** — cybersécurité et automatisation
 - **[BusyPlace](https://github.com/BusyPlace)** — données et intelligence d'entreprise
-- **[Doc Justice](https://github.com/KI-Ind/-Doc-Justice)** — outils documentaires et IA juridique
-- **[NovelBeat](https://github.com/KI-Ind/novelbeat-studio)** — création et diffusion de contenus assistées par IA
+- **Doc Justice** — outils documentaires et IA juridique *(projet privé)*
+- **NovelBeat** — création et diffusion de contenus assistées par IA *(projet privé)*
 
 ## Domaines d'expertise
 
